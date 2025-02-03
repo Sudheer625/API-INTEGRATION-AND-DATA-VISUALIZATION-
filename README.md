@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH KUMAR
 
-## # **API Integration & Data Visualization using Python**  
+ # **API Integration & Data Visualization using Python**  
 
 ## 📌 **Overview**  
 This project demonstrates how to **fetch real-time data from a public API** (OpenWeatherMap) and create **interactive visualizations** using Python. The goal is to extract meaningful insights and present them through **Matplotlib and Seaborn** for better data interpretation.  
@@ -33,7 +33,7 @@ This project demonstrates how to **fetch real-time data from a public API** (Ope
 ## ⚙️ **Installation**  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/api-visualization.git
+   git clone https://github.com/Sudheer625/api-visualization.git
    cd api-visualization
    ```  
 2️⃣ Install dependencies:  
@@ -56,4 +56,4 @@ streamlit run app.py
 - ✅ Python script for fetching & visualizing API data  
 - ✅ Dashboard for real-time data monitoring  
 
-Feel free to **fork, modify, and contribute**! ⭐ Happy coding! 🚀 ##
+Feel free to **fork, modify, and contribute**! ⭐ Happy coding! 🚀 
